@@ -1,6 +1,5 @@
 # See https://github.com/OlivMaher/FullStackProjectBackEnd for Backend
 
-# http://localhost:3000/
 
 ![Screenshot (3)](https://github.com/OlivMaher/FullStackProjectFrontEnd/assets/128430084/b8cdb0eb-ffb7-49f8-8c16-747ccce5596d)
 
